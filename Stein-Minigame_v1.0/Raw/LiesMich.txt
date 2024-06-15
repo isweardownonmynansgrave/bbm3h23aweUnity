@@ -1,0 +1,4 @@
+Der Library Ordner wurde nicht kopiert um Speicherplatz zu sparen.
+
+Editor-Version: 2022.3.13f1
+Renderer-Pipeline: 2D Built-In
